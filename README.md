@@ -24,7 +24,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tool </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,discord,java,postgres" />
@@ -36,7 +36,7 @@
 <br/>
 <hr/>
 
-<h2> Stats </h2>
+<h2 align="center"> Stats </h2>
   <br>
   <div align="center">
     <img src="https://git-hub-streak-stats.vercel.app?user=RomaruDaze&theme=gotham" alt="GitHub Streak" />
