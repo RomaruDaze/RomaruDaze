@@ -22,7 +22,7 @@ const Indonesian = {
     mentor: "Packer",
   },
   challenge:
-    "I am doing the #100DaysOfCode challenge focused on Selenium",
+    "I am doing the #100DaysOfCode challenge focused on Flutter",
 };
 ```
 
