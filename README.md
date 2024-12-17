@@ -5,7 +5,7 @@
 </em></p>
 
 [![Twitter: RomaruDaze](https://img.shields.io/twitter/follow/RomaruDaze?style=social)](https://twitter.com/RomaruDaze)</br>
-[![GitHub RomaruDaze](https://img.shields.io/github/followers/RomaruDaze?label=follow&style=social)]([[https://github.com/RomaruDaze](https://github.com/RomaruDaze?tab=followers)</br>
+[![GitHub RomaruDaze](https://img.shields.io/github/followers/RomaruDaze?label=follow&style=social)](https://github.com/RomaruDaze?tab=followers)</br>
 [![Instagram: Romaru._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romaru._/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
