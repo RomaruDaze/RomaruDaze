@@ -1,8 +1,10 @@
 <h2> Hi, I'm Roger Marvin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/cPZdap8PGhSvABr6xW/giphy.gif" width="200" style="border-radius: 50%;">
 
+
 <p><em>Enginner at <a href="https://kaishi-pu.ac.jp/">Kaishi Professional University</a></br> 
 </em></p>
+
 
 [![Twitter: RomaruDaze](https://img.shields.io/twitter/follow/RomaruDaze?style=social)](https://twitter.com/RomaruDaze)</br>
 [![GitHub RomaruDaze](https://img.shields.io/github/followers/RomaruDaze?label=follow&style=social)](https://github.com/RomaruDaze?tab=followers)</br>
@@ -28,11 +30,11 @@ const Indonesian = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---   
-<div align="center">
+<div align="center" >
   <img alt="Visitor Stats" src="https://widgetbite.com/stats/RomaruDaze"/>  
 </div>
 
-<div style="display:flex; flex-direction:column;align-items:center;justify-content:center;gap: 10px;">
+<div align="center">
     <img src="https://git-hub-streak-stats.vercel.app?user=RomaruDaze&theme=rising-sun" alt="GitHub Streak" style="width: 50%; max-width: 325px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaruDaze&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="width: 50%; max-width: 325px;height: 100%;" /> 
     <img src="https://github-readme-stats.vercel.app/api?username=RomaruDaze&show_icons=true&theme=dark" style="width: 50%; max-width: 325px">
