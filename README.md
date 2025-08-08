@@ -15,7 +15,7 @@
 ```javascript
 const Indonesian = {
   pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java, C#],
+  code: [Javascript, Typescript, HTML, CSS, Python, Java, C＃],
   tools: [React, FastApi, Tailwind, Styled - Components, Jest, Docker, Lambda, Unity],
   askMeAbout: ["web dev", "tech", "app dev", "photography"],
   challenge:
