@@ -30,6 +30,10 @@ const Indonesian = {
     <img src="https://git-hub-streak-stats.vercel.app?user=RomaruDaze&theme=rising-sun" alt="GitHub Streak" style="width: 50%; max-width: 325px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomaruDaze&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="width: 50%; max-width: 325px;height: 100%;" /> 
     <img src="https://github-readme-stats.vercel.app/api?username=RomaruDaze&show_icons=true&theme=dark" style="width: 50%; max-width: 325px">
+
 </div>
 
 
+<div align="center">
+  <img src="https://github.com/RomaruDaze/RomaruDaze/blob/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
