@@ -5,7 +5,7 @@
 <p><em>Enginner at <a href="https://kaishi-pu.ac.jp/">Kaishi Professional University</a></br> 
 </em></p>
 
-[![Instagram: Romaru._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogermarvin._/)
+[![Instagram: Romaru._](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogermarvin_/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
