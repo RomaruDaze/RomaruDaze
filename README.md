@@ -10,38 +10,9 @@ I love connecting with people, so feel free to say hi!
 
 ---
 
-### 🗣 Languages
-![Languages](https://skillicons.dev/icons?i=ts,js,python,java,cs,kotlin,dart,html,css)
-
-### 🎨 Frontend & Mobile
-![Frontend](https://skillicons.dev/icons?i=react,tailwind,flutter,jquery)
-
-### ⚙️ Backend & Databases
-![Backend](https://skillicons.dev/icons?i=fastapi,spring,postgres,sqlite,firebase,supabase)
-
-### ☁️ Cloud & DevOps
-![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,vercel,netlify)
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-
-### 🛠 Tools & IDEs
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,notion)
-
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-
-### 🤖 AI Tools
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
-
+### Stacks
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=render,s3,dynamodb,lambda,cloudwatch,snowflake,numpy,pypi,figma,googleplayconsole,jira,confluence,claude,deepseek,ollama)
+![Languages](https://skillicons.dev/icons?i=ts,js,python,java,cs,kotlin,dart,html,css,react,tailwind,flutter,jquery,fastapi,spring,postgres,sqlite,firebase,supabase,aws,azure,docker,kubernetes,vercel,netlify,selenium,git,github,vscode,idea,androidstudio,notion) 
 ---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
