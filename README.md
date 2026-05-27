@@ -36,6 +36,8 @@ const Roger = {
   <img src="https://streak-stats.demolab.com?user=RomaruDaze&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/RomaruDaze/RomaruDaze/blob/output/github-snake-dark.svg" alt="snake gif"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
