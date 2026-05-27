@@ -1,7 +1,7 @@
 <h2>Hi, I'm Roger Marvin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/cPZdap8PGhSvABr6xW/giphy.gif" width="200" style="border-radius:50%;">
 
-**Software Engineer · [RAKUS Co., Ltd.](https://www.rakus.co.jp/) · 🇮🇩 Indonesian**
+**Software Engineer · 🇯🇵[RAKUS Co., Ltd.](https://www.rakus.co.jp/) · 🇮🇩 Indonesian**
 
 I build web apps and mobile experiences by day — and spend my nights trying to make video games.
 I love connecting with people, so feel free to say hi!
