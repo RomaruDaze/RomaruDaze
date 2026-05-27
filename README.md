@@ -37,7 +37,7 @@ const Roger = {
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake-dark.svg?v=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake.svg?v=1" />
-  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake.svg?v=1" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake-dark.svg?refresh=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake.svg?refresh=1" />
+  <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake.svg?refresh=1" />
 </picture>
