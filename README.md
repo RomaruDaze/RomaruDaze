@@ -34,8 +34,6 @@ const Roger = {
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=RomaruDaze&theme=dark&hide_border=true&exclude_days=Sun%2CSat&card_width=800" alt="GitHub Streak" /></a>
-<div align="center">
- <img src="https://github-readme-stats-fast.vercel.app/api?username=RomaruDaze&show_icons=true&theme=dark"/>
 </div> 
 
 <picture>
