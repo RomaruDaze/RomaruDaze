@@ -21,20 +21,22 @@ I love connecting with people, so feel free to say hi!
 // a little more about me...
 const Roger = {
   pronouns:   "he/him",
-  role:       "Software Engineer",
+  role:       "Software/Bridge Engineer",
   company:    "RAKUS Co., Ltd.",
-  stack:      ["TypeScript", "React", "FastAPI", "Docker"],
+  stack:      ["TypeScript", "React", "FastAPI", "SpringBoot", "Docker",],
   askMeAbout: ["web dev", "app dev", "photography"],
-  sideQuest:  "making games 🎮",
-  funFact:    "Indonesian engineer living the dream in Japan 🇯🇵",
+  sideQuest:  "Making world a better place",
+  funFact:    "Indonesian Engineer living the dream in Japan 🇯🇵",
 };
 ```
 
 ---
 
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RomaruDaze&theme=rising-sun&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
-</div> -->
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=RomaruDaze&theme=dark&hide_border=true&exclude_days=Sun%2CSat&card_width=800" alt="GitHub Streak" /></a>
+<div align="center">
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=RomaruDaze&show_icons=true&theme=dark"/>
+</div> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake-dark.svg" />
