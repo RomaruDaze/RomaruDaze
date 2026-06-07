@@ -23,7 +23,7 @@ const Roger = {
   pronouns:   "he/him",
   role:       "Software/Bridge Engineer",
   company:    "RAKUS Co., Ltd.",
-  stack:      ["TypeScript", "React", "FastAPI", "SpringBoot", "Docker",],
+  stack:      ["TypeScript", "React", "FastAPI", "SpringBoot", "Docker"],
   askMeAbout: ["web dev", "app dev", "photography"],
   sideQuest:  "Making world a better place",
   funFact:    "Indonesian Engineer living the dream in Japan 🇯🇵",
