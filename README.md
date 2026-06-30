@@ -1,3 +1,5 @@
+
+
 <h2>Hi, I'm Roger Marvin! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/cPZdap8PGhSvABr6xW/giphy.gif" width="200" style="border-radius:50%;">
 
@@ -29,15 +31,21 @@ const Roger = {
   funFact:    "Indonesian Engineer living the dream in Japan 🇯🇵",
 };
 ```
-
----
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=RomaruDaze&theme=dark&hide_border=true&exclude_days=Sun%2CSat&card_width=800" alt="GitHub Streak" /></a>
-</div> 
-
-<picture>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-color: transparent;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" width="50%" style="border: none;">
+      <img src="github-metrics-isocalendar.svg" alt="Isometric Calendar" width="100%" />
+    </td>
+    <td align="center" valign="middle" width="50%" style="border: none;">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=RomaruDaze&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake.svg" />
   <img alt="GitHub Snake Game" src="https://raw.githubusercontent.com/RomaruDaze/RomaruDaze/output/github-snake.svg?refresh=1" />
-</picture>
+</picture> -->
+
